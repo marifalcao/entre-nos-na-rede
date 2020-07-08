@@ -1,0 +1,25 @@
+.rodape-login {
+    margin-top: 42px;
+    text-align: center;
+}
+
+.container-login {
+    max-width: 600px;
+}
+
+.container-login .title {
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.container-login .subtitle {
+    color: var(--primary-gray);
+}
+
+.form-login {
+    margin-top: 42px;
+}
+
+.btn-login {
+    margin-top: 32px;
+}
